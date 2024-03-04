@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCYABspaBomy3Z6RwtZEbpxOQ_n6PmWAg4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>896227569163</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.lova.Krishna.SocialVideoApp</string>
+	<key>PROJECT_ID</key>
+	<string>onlinequizappfb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>onlinequizappfb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:896227569163:ios:a137d4b8933d7f9b2d210e</string>
+	<key>DATABASE_URL</key>
+	<string>https://onlinequizappfb-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
